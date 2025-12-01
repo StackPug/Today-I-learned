@@ -32,3 +32,8 @@ Sunday 30th November 2025
 
 Today I started by adding some images to my main index.html page and the things i love page. They came out quite large so I had to add a style (in line text) to make it smaller. I am still trying to avoid any CSS for now so I can max out what can be done just using HTML. One was taller than the other so then i learnt about adding the height and object-fit:cover; This worked great. I then asked Chat GPT how I can max out what there is to learn with HTML. I tidied up my code by adding a header and main element. 
 I added a books and games header to things i love and I linked my good reads profile to the goodreads logo. The file was confusing me as I didn't notice it was a JPEG instead of JPG. It didn't take me long to figure it out. 
+
+Monday 1st December 2025
+
+I noticed that the second photo of my pug wasn't showing on the webpage so i copied and pasted code to Chat GPt and it told me the closing "a" tag was missing. I chose to ask instead of spend lots of my time looking as I beleive AI will usually be able to help us get a lot of things done quicker. I did have the closing tag I know its not a void element so the fact I have learnt that helps me move forward quicker. 
+I asked Chat GPT what else I can use using only HTML. I played around with the details element with summary and paragraph. I decided not to keep this on my page but, I enjoyed seeing what it could do. I added figure elements and figcaptions to all of my images. 
