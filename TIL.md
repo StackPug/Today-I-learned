@@ -37,3 +37,10 @@ Monday 1st December 2025
 
 I noticed that the second photo of my pug wasn't showing on the webpage so i copied and pasted code to Chat GPt and it told me the closing "a" tag was missing. I chose to ask instead of spend lots of my time looking as I beleive AI will usually be able to help us get a lot of things done quicker. I did have the closing tag I know its not a void element so the fact I have learnt that helps me move forward quicker. 
 I asked Chat GPT what else I can use using only HTML. I played around with the details element with summary and paragraph. I decided not to keep this on my page but, I enjoyed seeing what it could do. I added figure elements and figcaptions to all of my images. 
+
+Saturday 6th December
+
+I've had a few days off from actively coding. I have listened to three episodes of the Free Code Camp podcast. I enjoy these so much because I always get some great tips and advice and it keeps me going and thinking like a dev.
+I am on number 229/276 of HTML on FCC Responsive Web Design Certification. I have been struggling to find the motivation to carry on with home life at the moment. Being a mother to 2 children and a wife, home life comes first and I have to put my learning aside sometimes. And that's ok. 
+
+
