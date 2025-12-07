@@ -43,4 +43,8 @@ Saturday 6th December
 I've had a few days off from actively coding. I have listened to three episodes of the Free Code Camp podcast. I enjoy these so much because I always get some great tips and advice and it keeps me going and thinking like a dev.
 I am on number 229/276 of HTML on FCC Responsive Web Design Certification. I have been struggling to find the motivation to carry on with home life at the moment. Being a mother to 2 children and a wife, home life comes first and I have to put my learning aside sometimes. And that's ok. 
 
+Sunday 7th December
+
+Today I don't have a lot of time so I decided to add a submit button to my contact form and Chat GPT taught me to link it to a formspree which will send responses to my email address. It also tidied up the form and made it look a lot nicer. I can see how easy it would be to just get Chat GPT to make the whole thing but i'm taking it slow and building it myself then learning how to change it and add things that I don't know about.  
+
 
