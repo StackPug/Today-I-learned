@@ -53,5 +53,10 @@ Today I completed some more of HTML on FCC. I am on 259/276. I am hoping I can g
 
 Tuesday 9th December
 
-I didn't get the HTML complete but I am so close. I have a lot more time tomorrow so I am hoping to get a good few hours in. Today I learnt about more ways to make websites accessible including, aria-hidden, aria-describedby. 
+I didn't get the HTML complete but I am so close. I have a lot more time tomorrow so I am hoping to get a good few hours in. Today I learnt about more ways to make websites accessible including, aria-hidden, aria-describedby.
+
+Wednesday 10th December 
+
+I finished the HTML part and then I completed the extra computing section that has been added in since I started. I have begun CSS and I am so excited to put it to the test on my website. As it is the christmas period fast approaching and I have two young children, I won't be able to sit and code as much as I would like and that's ok because they won't always be this young. I will dedicate what time I can. I have a book I want to read called "She's in CTRL" by Anne Marie Imafidon. And I will listen to Free Code Camps new podcast on Friday. I need to find some other tech related pod casts to listen to. 
+
 
