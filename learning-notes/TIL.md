@@ -26,3 +26,7 @@ Sunday 14th December
 
 Today I am back on the brand website. I have added a footer with a trademark for the brand. I am continuing with CSS on FCC and asking Chat GPT questions as I see fit. I noticed how I have been using CSS there has been a "full stop" before the selector and I asked why this is. If you are styling an HTML tag like h1, there’s no full stop.
 A full stop means it is a class, which means the element in HTML has a class attribute that relates to the class in CSS. I completed 89 tasks on FCC making a menu card which I really enjoyed. I used some of the code on my own website to change my a:active on my nav links to blue. I learnt a few things like how to have backup font and add images and change the margin to -negative to help it move closer to the h1 or h2 tags. 
+
+Monday 15th December 
+
+Today I have continued on FCC and made a business card. I am really enjoying seeing CSS and how it works. It is a lot more visually interesting than simply HTML alone. I just know I am going to enjoy implementing javascript even more. I changed my "a" link states on my brand website. They are white when you hover and change to pink when you click on them. I keep them charcoal other than that as it is the most asthetically pleasing. I am on 106 steps out of 1153 until I can get the responsive web certificate and move on the Javascript. 
