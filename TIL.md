@@ -83,3 +83,7 @@ I couldn't code yesterday as I had to catch up on house work. I am trying to kee
 Friday 19th December 
 
 Today I completed step 112 on FCC which was design a blog card. I had to use overflow - hidden for the first time because my border-radius wasnt working. I spent a nice bit of time on it all today going over it best I could myself before seeking help from Chat GPT. 
+
+Saturday 20th December
+
+I have completed 10 steps of FCC CSS. I would like to do more but the children are off school for Christmas and it is much harder to concentrate. I learn about a call out bar so I added that to my brand website as I'd like to do something with that when the time comes. I learnt about allignment and contrast. 
