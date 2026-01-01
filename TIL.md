@@ -1,7 +1,6 @@
 Today I learned
 
-
-Thursday 27th November 2025
+27th November 2025
 
 Today I learned more about what happened last night when I tried to add an about me to my website. I have learnt the HTML basics from Free Code Camp on what to add to the website and how to add a nav (navigation) bar. I added one for the about me section. Eventually I will make it so it opens a new page, but I got lost in the GITHub hole and really enjoyed how it kept breaking. I learnt that it wouldn't push it because of the changes made and it opened VIM which I had no idea how to get out of. Since learned ESC, :wq means save and quit. I also learned that git commit -m "ENTER MESSAGE HERE" is how I can name my file/commit without it opening VIM and confusing me. 
 I am currently making a new repo called "Today I learned" and think this is a cool way for me to jot down what I have learned everyday and keep a diary. I have tried doing this the old fashioned way with paper and pen but I love this idea of keeping it digital and it will also count to me being active on GITHub. 
@@ -13,7 +12,7 @@ I carried on and learnt how to make folders but then decided I didn't need lots 
 rm r (foldername) deletes a folder and files in it
 rm (filename) deletes a file
 
-Friday 28th November 2025 
+28th Novemeber 2025 
 
 Today I started with updating my website. I added a footer element, made a new, seperate page for my about-me to open up when you click on it and changed the style of the nav bar. I did the footer and the about me page myself but, I had to find out how to style the nav bar as it's CSS which I havent done yet. 
 Mistakes were made but, that is how we learn. I left the # on the about-me so the href didn't work. I also put the footer element outside of the body. I missed a closed section tag that I needed to delete. 
@@ -61,7 +60,7 @@ I finished the HTML part and then I completed the extra computing section that h
 
 Friday 12th December
 
-Today I am on CSS on FCC. I am reading through some basics of HTML that I do know already but one thing that I noticed I haven't seen before is the "<hr>" element. I went straight to my webpage and added it in and I am so chuffed honeslty, this is how I know I am meant to code. I love these new things I can add, no matter how small. As I carried on learning I also noticed I like the border around the images so I added that to my page. It didn't work on one photo and I wasn't sure why but it was that I had an image without a figure element so I wrapped figire around the image. I then added iframe into it so it wrapped around my video. 
+Today I am on CSS on FCC. I am reading through some basics of HTML that I do know already but one thing that I noticed I haven't seen before is the <hr> element. I went straight to my webpage and added it in and I am so chuffed honeslty, this is how I know I am meant to code. I love these new things I can add, no matter how small. As I carried on learning I also noticed I like the border around the images so I added that to my page. It didn't work on one photo and I wasn't sure why but it was that I had an image without a figure element so I wrapped figire around the image. I then added iframe into it so it wrapped around my video. 
 
 Saturday 13th December
 
@@ -80,10 +79,7 @@ Wednesday 17th December
 
 I couldn't code yesterday as I had to catch up on house work. I am trying to keep track of the actual time I am getting in so I am using visual timer. I have done 2 hours so far today working on FCC CSS. I made a todo list. I couldn't figure out how to make a nested list and that is because I haven't made one yet. I have found that FCC will ask things of me that I haven't learnt yet. I just ask Chat GPT and then I try to add the code in and correct myself without copying and pasting. So today I guess I have learned how to nest lists and target putting a border around the beginning of the list only as the second list element kept having a border around that one and the code I had to use was .todo-list > li, this targetted the first child of the list. I then decided to make the nav bar font larger on my brand website and made the whole background-color the same as the nav bar. I noticed I hadnt changed the root color for the footer so I changed that. Im on 11 out of now 1190 :|. It has gone up ! Oh well. I'll keep going. I learnt how to do border-radius so I changed the borders on my original website and it was funny going back because I can see all the things I can change now !
 
-Friday 19th December 
+January 1st 2026
 
-Today I completed step 112 on FCC which was design a blog card. I had to use overflow - hidden for the first time because my border-radius wasnt working. I spent a nice bit of time on it all today going over it best I could myself before seeking help from Chat GPT. 
+Today I have only been able to complete a few tasks on the FCC site. I have been learning about user centered design, cards and what info is important and how to make it stand out. I am hoping I can fit in as much coding as possible but while the kids are off I wont have as much time as I'd like right now. 
 
-Saturday 20th December
-
-I have completed 10 steps of FCC CSS. I would like to do more but the children are off school for Christmas and it is much harder to concentrate. I learn about a call out bar so I added that to my brand website as I'd like to do something with that when the time comes. I learnt about allignment and contrast. 
