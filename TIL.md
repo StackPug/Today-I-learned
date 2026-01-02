@@ -83,3 +83,6 @@ January 1st 2026
 
 Today I have only been able to complete a few tasks on the FCC site. I have been learning about user centered design, cards and what info is important and how to make it stand out. I am hoping I can fit in as much coding as possible but while the kids are off I wont have as much time as I'd like right now. 
 
+January 2nd 2026
+
+Continuing FCC. I have learnt about Figma and downloaded this. I am looking forward to playing about with this. Sketch for mac and Adobe XD. I am on 142/1191. It is a little overwhelming but I am not going to stop. Learning like this means I am learning nonetheless. I hope to put in a lot more hours from Monday. I wish I could have a set time of hours and know how long it is going to take me but the life of a parent isn't so simple. I now have a desk and I am looking for a second screen.  
