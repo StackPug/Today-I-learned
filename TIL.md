@@ -730,3 +730,7 @@ Sunday 24th May 26'
 Monday 25th May 26'
 
 3 quizzes today 9/10, 7/10, 8/10. Javascript and HTML, CSS. I feel good about this that I am remembering and that this will keep me on top of it so I feel like I can make progress. I just genuinely enjoy knowing this stuff. 
+
+Saturday 12th September 26'
+
+I spent 3 hours today. firstly I asked Claude to test me on HTML/CSS and then Javascript. I learnt about filter() and map() and practiced a few one line arrow functions. I then did some FCC steps. I am really happy to be back.
