@@ -734,3 +734,10 @@ Monday 25th May 26'
 Saturday 12th September 26'
 
 I spent 3 hours today. firstly I asked Claude to test me on HTML/CSS and then Javascript. I learnt about filter() and map() and practiced a few one line arrow functions. I then did some FCC steps. I am really happy to be back.
+
+Sunday 13th and Monday 14th September 26'
+
+I forgot to add yesterday, I did another 3 hours. Today I did 2 hours 23 minutes. I am trying to keep track of it and I'm getting it done. 
+I am being patient with myself. I have plenty of time as long as I am using the time I have wisely. 
+
+FCC: 325/1321
