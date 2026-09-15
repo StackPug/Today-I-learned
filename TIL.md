@@ -741,3 +741,9 @@ I forgot to add yesterday, I did another 3 hours. Today I did 2 hours 23 minutes
 I am being patient with myself. I have plenty of time as long as I am using the time I have wisely. 
 
 FCC: 325/1321
+
+Tuesday 15th September 26'
+
+Today, agian was quite a slog? I am learning a lot I just want it to really stick but as I have learnt with HTML etc I will get there. I am going to do some quizzes and see how I can use what I have learnt building everyday things and repeating what I have gone over. 
+
+FCC: 368/1321
