@@ -744,6 +744,11 @@ FCC: 325/1321
 
 Tuesday 15th September 26'
 
-Today, agian was quite a slog? I am learning a lot I just want it to really stick but as I have learnt with HTML etc I will get there. I am going to do some quizzes and see how I can use what I have learnt building everyday things and repeating what I have gone over. 
+Today, again was quite a slog? I am learning a lot I just want it to really stick but as I have learnt with HTML etc I will get there. I am going to do some quizzes and see how I can use what I have learnt building everyday things and repeating what I have gone over. 
 
 FCC: 368/1321
+
+Wednesday 11th November 26'
+
+I have been coding I just haven't been loggin it. Not religiously but I am back into it and wanting to conquer things like GIThub etc so I need to keep this up to date. Today I did a lot of testing myself on previous subjects. I am on step 500/1404 on the FCC full stack. I really enjoy challenging myself and learning this. I just have a lot going on and I have taken up learning the drums, 6 weeks in really enjoying that but to be honest I enjoy learning to code a little bit more ! 
+
