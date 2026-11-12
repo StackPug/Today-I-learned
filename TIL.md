@@ -752,3 +752,9 @@ Wednesday 11th November 26'
 
 I have been coding I just haven't been loggin it. Not religiously but I am back into it and wanting to conquer things like GIThub etc so I need to keep this up to date. Today I did a lot of testing myself on previous subjects. I am on step 500/1404 on the FCC full stack. I really enjoy challenging myself and learning this. I just have a lot going on and I have taken up learning the drums, 6 weeks in really enjoying that but to be honest I enjoy learning to code a little bit more ! 
 
+Thursday 12th Novemebr 26'
+
+Rather typically I am feeling under the weather but I am still doing some coding tests with Claude. I just got 7.5 out of 8 as I missed that a key was repeated and when that happens the later one overides the first one. 
+7.5/8 on the next one ! I had to find the path in object array object array. The last part I got wrong but most of the path right. 
+5.5/8 Soem new things tried. Need to rest now as I am dizzy. Still loved the coding ! 
+
